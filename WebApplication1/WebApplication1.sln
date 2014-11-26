@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.30723.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication1", "WebApplication1\WebApplication1.csproj", "{EFFEA20A-2759-45E6-9256-40149B65E6C4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication1", "WebApplication1\WebApplication1.csproj", "{59265753-D68F-4E21-A2B8-7FA16F1E88F0}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WcfService1", "WcfService1\WcfService1.csproj", "{BCE42A10-8042-4DB3-B947-6AFDE64DE980}"
 EndProject
@@ -15,10 +15,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{EFFEA20A-2759-45E6-9256-40149B65E6C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{EFFEA20A-2759-45E6-9256-40149B65E6C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{EFFEA20A-2759-45E6-9256-40149B65E6C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{EFFEA20A-2759-45E6-9256-40149B65E6C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59265753-D68F-4E21-A2B8-7FA16F1E88F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59265753-D68F-4E21-A2B8-7FA16F1E88F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59265753-D68F-4E21-A2B8-7FA16F1E88F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59265753-D68F-4E21-A2B8-7FA16F1E88F0}.Release|Any CPU.Build.0 = Release|Any CPU
 		{BCE42A10-8042-4DB3-B947-6AFDE64DE980}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{BCE42A10-8042-4DB3-B947-6AFDE64DE980}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BCE42A10-8042-4DB3-B947-6AFDE64DE980}.Release|Any CPU.ActiveCfg = Release|Any CPU
