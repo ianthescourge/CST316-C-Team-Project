@@ -2,41 +2,108 @@
 
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
 
-    <div class="jumbotron">
-        <h1>ASP.NET</h1>
-        <p class="lead">ASP.NET is a free web framework for building great Web sites and Web applications using HTML, CSS, and JavaScript.</p>
-        <p><a href="http://www.asp.net" class="btn btn-primary btn-lg">Learn more &raquo;</a></p>
-    </div>
+	<link href="../Styles/Master.css" rel="stylesheet" type="text/css" />
 
-    <div class="row">
-        <div class="col-md-4">
-            <h2>Getting started</h2>
-            <p>
-                ASP.NET Web Forms lets you build dynamic websites using a familiar drag-and-drop, event-driven model.
-            A design surface and hundreds of controls and components let you rapidly build sophisticated, powerful UI-driven sites with data access.
-            </p>
-            <p>
-                <a class="btn btn-default" href="http://go.microsoft.com/fwlink/?LinkId=301948">Learn more &raquo;</a>
-            </p>
-        </div>
-        <div class="col-md-4">
-            <h2>Get more libraries</h2>
-            <p>
-                NuGet is a free Visual Studio extension that makes it easy to add, remove, and update libraries and tools in Visual Studio projects.
-            </p>
-            <p>
-                <a class="btn btn-default" href="http://go.microsoft.com/fwlink/?LinkId=301949">Learn more &raquo;</a>
-            </p>
-        </div>
-        <div class="col-md-4">
-            <h2>Web Hosting</h2>
-            <p>
-                You can easily find a web hosting company that offers the right mix of features and price for your applications.
-            </p>
-            <p>
-                <a class="btn btn-default" href="http://go.microsoft.com/fwlink/?LinkId=301950">Learn more &raquo;</a>
-            </p>
-        </div>
-    </div>
+	<div>
+		The C Store<br />
+		&nbsp;&nbsp;&nbsp; Give us your money!<br />
+		<br />
+		<br />
+		<asp:Table ID="Table1" runat="server" BorderColor="DarkGreen" BorderWidth="1" GridLines="Both" CellPadding="5">
+			<asp:TableRow>
+				<asp:TableCell>
+					<p>
+						<asp:ImageButton ID="ImageButton1" runat="server" />
+					</p>
+					<p>
+						<asp:Label ID="Label1" runat="server"></asp:Label>
+					</p>
+						<asp:Label ID="Label2" runat="server"></asp:Label>
+					<p>
+						<asp:Label ID="Label3" runat="server"></asp:Label>
+					</p>
+					<p>
+						<asp:Label ID="Label4" runat="server"></asp:Label>
+					</p>
+				</asp:TableCell>  
+				<asp:TableCell>
+					<p>
+						<asp:ImageButton ID="ImageButton2" runat="server" />
+					</p>
+						<asp:Label ID="Label5" runat="server"></asp:Label>
+					<p>
+						<asp:Label ID="Label6" runat="server"></asp:Label>
+					</p>
+					<p>
+						<asp:Label ID="Label7" runat="server"></asp:Label>
+					</p>
+					<p>
+						<asp:Label ID="Label8" runat="server"></asp:Label>
+					</p>
+				</asp:TableCell> 
+			</asp:TableRow>  
+			<asp:TableRow>
+				<asp:TableCell>
+					<p>
+						<asp:ImageButton ID="ImageButton3" runat="server" />
+					</p>
+						<asp:Label ID="Label9" runat="server"></asp:Label>
+					<p>
+						<asp:Label ID="Label10" runat="server"></asp:Label>
+					</p>
+					<p>
+						<asp:Label ID="Label11" runat="server"></asp:Label>
+					</p>
+					<p>
+						<asp:Label ID="Label12" runat="server"></asp:Label>
+					</p>
+					</asp:TableCell>  
+					<asp:TableCell>
+						<p>
+							<asp:ImageButton ID="ImageButton4" runat="server" />
+						</p>
+							<asp:Label ID="Label13" runat="server"></asp:Label>
+						<p>
+							<asp:Label ID="Label14" runat="server"></asp:Label>
+						</p>
+						<p>
+							<asp:Label ID="Label15" runat="server"></asp:Label>
+						</p>
+						<p>
+							<asp:Label ID="Label16" runat="server"></asp:Label>
+						</p>
+				</asp:TableCell> 
+			</asp:TableRow>  
+		</asp:Table>
+		<br />
+		<br />
+		<br />
+		<br />
+		<br />
+		<br />
+		<br />
+		<br />
+		<br />
+		<br />
+		<br />
+		<br />
+		<br />
+		<br />
+	</div>
+	<div class ="left">
+		<p>
+			&nbsp;
+		</p>
+	</div>
+	<div class ="middle">
+		<p>
+			&nbsp;
+		</p>
+	</div>
+	<div class ="right">
+		<p>
+			&nbsp;
+		</p>
+	</div>
 
 </asp:Content>

@@ -1,0 +1,27 @@
+﻿div.container {
+	width: 100%;
+	margin: 0px;
+	border: 1px solid gray;
+	line-height: 150%;
+}
+
+div.left {
+	float: left;
+	width: 160px;
+	margin: 0;
+	padding: 1em;
+}
+
+div.middle {
+	margin-left: 190px;
+	width: 160px;
+	border-left: 1px solid gray;
+	padding: 1em;
+}
+
+div.right {
+	float: left;
+	width: 160px;
+	margin: 0;
+	padding: 1em;
+}

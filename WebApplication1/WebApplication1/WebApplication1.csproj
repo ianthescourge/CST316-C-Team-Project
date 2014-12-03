@@ -213,7 +213,8 @@
     <Content Include="favicon.ico" />
     <Content Include="Global.asax" />
     <Content Include="Master Pages\Site.Master" />
-    <Content Include="Styles\StyleSheet1.css" />
+    <Content Include="Styles\Default.css" />
+    <Content Include="Styles\Master.css" />
     <Content Include="ViewSwitcher.ascx" />
     <Content Include="Web.config" />
     <Content Include="Bundle.config" />
